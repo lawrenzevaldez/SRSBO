@@ -1,0 +1,31 @@
+RETURNS and DISPOSAL NOVALICHES
+Return to Supplier Slip 
+No 186592
+Supplier: MARBY FOOD VENTURE CORP. (BREAD)
+Date: 2023/08/16 
+U.COST 
+Product                                 QTY
+MARBY MINI MONAY                         1 
+45.90
+PCK
+WINGS PWD KALAMANSI 70GM                 1 
+31.63
+PC6
+WINGS SOLVE FLORAL 70G                   7 
+221.42
+PC6
+WINGSSUMMERSUNSHINE70G                   5 
+158.19
+PC6
+WTC PWD LVENDR DREAM 60G                 1 
+30.50
+PC6
+-------------------------------------------
+               TOTAL QTY: 15
+           TOTAL AMOUNT: 487.64
+-------------------------------------------
+Prepared by:ADMIN PLAIN
+Checked  by:ADMIN PLAIN
+Received by: 
+___________________________________________
+            *** Supplier's Copy *** 
